@@ -16,6 +16,6 @@ CSS
 JavaScript
 
 Acknowledgements
-Special thanks to Meth Rathnayake https://www.instagram.com/meth.rathnayake/
+- Game made by [Meth Rathnayake](https://www.instagram.com/meth.rathnayake/)
 
 Happy gaming!
